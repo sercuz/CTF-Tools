@@ -1,7 +1,7 @@
 # CTF-Tools
 My set of tools 
 
-***********FORNSICS**********
+**********FORNSICS**********
 
 binwalk filename
 binwalk filename -e 
@@ -57,7 +57,7 @@ Registry Viewers
     ROP Gadget — Framework for ROP exploitation
     V0lt — Security CTF Toolkit
     
-*******************Reversing*************
+*************Reversing*************
 
 Tools used for solving Reversing challenges
 
@@ -102,7 +102,7 @@ SWF Analyzers
     Swftools — Collection of utilities to work with SWF files
     Xxxswf — A Python script for analyzing Flash files.
     
-*************Steganography**********
+**********Steganography**********
 
 Tools used for solving Steganography challenges
 
